@@ -1,0 +1,1 @@
+UPDATE organizations SET phone_number='+380630000000' WHERE id=1;

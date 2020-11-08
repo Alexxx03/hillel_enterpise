@@ -1,0 +1,1 @@
+CREATE TYPE REGION AS ENUM  ('africa', 'europe','asia', 'america', 'oceania');
